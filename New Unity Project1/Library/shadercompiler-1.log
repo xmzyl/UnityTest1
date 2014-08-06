@@ -1,62 +1,9 @@
 Base path: D:/win64ProgramFiles(x86)/Unity4.6/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-1-3496
+Pipe name: \\.\pipe\UnityShaderCompiler-1-3644
 Cmd: getPlatforms
 Cmd: preprocess
-  insize=1189 outsize=1047 ok=1
+  insize=789 outsize=140 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=4608 outsize=2387 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+  api=4 type=0 insize=912 outsize=941 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=4608 outsize=1331 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2612 outsize=2688 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2612 outsize=1632 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=4608 outsize=2777 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=4608 outsize=1591 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2612 outsize=1632 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2612 outsize=1217 kw=DIRECTIONAL ok=1
-Cmd: preprocess
-  insize=1187 outsize=1049 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (29): incorrect number of arguments to numeric-type constructor
-  api=4 type=0 insize=4606 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
-Cmd: preprocess
-  insize=1197 outsize=1049 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=4616 outsize=2387 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=4616 outsize=1331 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2620 outsize=2688 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2620 outsize=1632 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=4616 outsize=2777 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=4616 outsize=1591 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2620 outsize=1632 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2620 outsize=1217 kw=DIRECTIONAL ok=1
-Cmd: preprocess
-  insize=1181 outsize=1047 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=4600 outsize=2387 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=4600 outsize=1404 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2604 outsize=2688 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2604 outsize=1493 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=4600 outsize=2777 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=4600 outsize=1453 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2604 outsize=1632 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2604 outsize=1290 kw=DIRECTIONAL ok=1
+  api=4 type=1 insize=912 outsize=527 kw= ok=1

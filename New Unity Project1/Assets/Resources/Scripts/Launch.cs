@@ -1,18 +1,21 @@
 ﻿using UnityEngine;
-using System.Collections;
+using System.Collections.Generic;
 
 public class Launch : MonoBehaviour {
 
 	// Use this for initialization
+    private List<UIBase> uiList = new List<UIBase>();
+    
+    private UISystem uiSystem;
 	void Start () {
-        
+        //创建UISystem
+        uiSystem = MGUITools.CreateUI(null, false, -1);
+        //创建登录界面
+        uiSystem.LoadWindowFromPrefab<LoginWindow>("UI/LoginUI");
 	}
 	
 	// Update is called once per frame
 	void Update () {
-	    if (loginUI_ == null)
-            loginUI_ = Resources.Load("UI/LoginUI") as Canvas;
-	}
 
-    public Canvas loginUI_ = null;
+	}
 }

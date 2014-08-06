@@ -48,7 +48,12 @@
   <ItemGroup>
      <Compile Include="Assets\Resources\Scripts\Launch.cs" />
      <Compile Include="Assets\Resources\Scripts\LoginButton.cs" />
+     <Compile Include="Assets\Resources\Scripts\Windows\LoginWindow.cs" />
      <Compile Include="Assets\Resources\Scripts\ballControllor.cs" />
+     <Compile Include="Assets\Resources\Scripts\mGUI\Internal\MGUITools.cs" />
+     <Compile Include="Assets\Resources\Scripts\mGUI\UI\List.cs" />
+     <Compile Include="Assets\Resources\Scripts\mGUI\UI\UIBase.cs" />
+     <Compile Include="Assets\Resources\Scripts\mGUI\UI\UISystem.cs" />
      <None Include="Assets\Resources\Shaders\BasicDiffuse.shader" />
      <None Include="Assets\Resources\Shaders\NewShader.shader" />
      <None Include="Assets\cgShader1.shader" />
